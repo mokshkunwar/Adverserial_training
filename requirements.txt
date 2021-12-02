@@ -1,0 +1,9 @@
+absl==0.0
+absl_py==0.11.0
+cleverhans==3.1.0
+easydict==1.9
+numpy==1.17.4
+tensorflow==2.4.1
+tensorflow_datasets==4.4.0
+torch==1.10.0
+torchvision==0.11.1
