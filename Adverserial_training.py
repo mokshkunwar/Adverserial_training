@@ -1,6 +1,6 @@
 
 from absl import app, flags
-#from easydict import EasyDict
+from easydict import EasyDict
 import numpy as np
 import torch
 import torch.nn as nn
